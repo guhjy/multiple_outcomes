@@ -1,7 +1,7 @@
 # Overview
 
 This repository contains all code required to reproduce analyses in: 
-
+>http://www.citeulike.org/user/guhjy/article/14655055
 >Mathur MB & VanderWeele TJ. XXX. 
 
 Address any inquiries to mmathur [AT] stanford [DOT] edu.
